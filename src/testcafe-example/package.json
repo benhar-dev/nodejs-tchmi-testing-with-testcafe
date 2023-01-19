@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/*.js"
+  },
+  "author": "benhar-dev",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "^2.2.0"
+  }
+}
