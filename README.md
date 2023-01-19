@@ -28,6 +28,7 @@ You must have node.js installed on your system
 3. Open the PLC program, activate and run
 4. Open the TwinCAT HMI project and start it in live view
 5. Copy the URL and paste this in to the .\src\testcafe-example\tests\click-button-sets-label.js
+6. Copy the URL and paste this in to the .\src\testcafe-example\tests\click-button-sets-variable.js
 
 ```js
 fixture`Getting Started`.page`{{paste your URL here}}`;
