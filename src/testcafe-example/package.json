@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "testcafe": "^2.2.0"
+  },
+  "dependencies": {
+    "ads-client": "^1.14.1"
   }
 }
